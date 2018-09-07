@@ -15,17 +15,17 @@ export class ProductList {
             Unit: 'Years'
         },
         {
-            FirstName: 'Kaushik',
-            LastName: 'Kishore',
-            Designation: 'Software Developer',
+            FirstName: 'Anurag',
+            LastName: 'Bapat',
+            Designation: 'Devops Engineer',
             Experience: 5,
             Unit: 'Years'
         },
         {
-            FirstName: 'Kaushik',
-            LastName: 'Kishore',
-            Designation: 'Software Developer',
-            Experience: 5,
+            FirstName: 'Rohin',
+            LastName: 'Tak',
+            Designation: 'Senior Software Developer',
+            Experience: 8,
             Unit: 'Years'
         }
     ]
